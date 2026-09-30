@@ -2,7 +2,7 @@
 
 Mathematics undergraduate at the **University of British Columbia** (Vancouver, BC), working on machine learning research.
 
-- **Interests:** reinforcement learning, robotics, optimization, stochastic processes, quantitative finance
+- **Interests:** reinforcement learning, robotics, computer vision, optimization, stochastic processes, quantitative finance
 - **Website:** [avaahmadi.com](https://avaahmadi.com)
 - **LinkedIn:** [linkedin.com/in/ava-ahmadi1228](https://www.linkedin.com/in/ava-ahmadi1228)
 - **Leadership:** Founding President, Association for Women in Mathematics (AWM) at UBC
